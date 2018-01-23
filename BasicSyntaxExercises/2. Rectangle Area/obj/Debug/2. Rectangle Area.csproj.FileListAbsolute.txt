@@ -1,0 +1,5 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\2. Rectangle Area\bin\Debug\_2.Rectangle_Area.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\2. Rectangle Area\bin\Debug\_2.Rectangle_Area.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\2. Rectangle Area\bin\Debug\_2.Rectangle_Area.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\2. Rectangle Area\obj\Debug\_2.Rectangle_Area.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\2. Rectangle Area\obj\Debug\_2.Rectangle_Area.pdb

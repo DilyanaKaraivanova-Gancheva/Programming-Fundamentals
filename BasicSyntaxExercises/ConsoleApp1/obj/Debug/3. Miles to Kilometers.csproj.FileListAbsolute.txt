@@ -1,0 +1,5 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

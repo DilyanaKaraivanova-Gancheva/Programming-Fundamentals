@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\1. Debit Card Number\bin\Debug\_1.Debit_Card_Number.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\1. Debit Card Number\bin\Debug\_1.Debit_Card_Number.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\1. Debit Card Number\bin\Debug\_1.Debit_Card_Number.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\1. Debit Card Number\obj\Debug\1. Debit Card Number.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\1. Debit Card Number\obj\Debug\_1.Debit_Card_Number.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\1. Debit Card Number\obj\Debug\_1.Debit_Card_Number.pdb

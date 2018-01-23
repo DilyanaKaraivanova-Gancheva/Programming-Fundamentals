@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\5. Character Stats\bin\Debug\_5.Character_Stats.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\5. Character Stats\bin\Debug\_5.Character_Stats.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\5. Character Stats\bin\Debug\_5.Character_Stats.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\5. Character Stats\obj\Debug\5. Character Stats.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\5. Character Stats\obj\Debug\_5.Character_Stats.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\5. Character Stats\obj\Debug\_5.Character_Stats.pdb

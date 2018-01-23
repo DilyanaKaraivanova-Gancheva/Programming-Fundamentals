@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\4. Beverage Labels\bin\Debug\_4.Beverage_Labels.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\4. Beverage Labels\bin\Debug\_4.Beverage_Labels.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\4. Beverage Labels\bin\Debug\_4.Beverage_Labels.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\4. Beverage Labels\obj\Debug\4. Beverage Labels.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\4. Beverage Labels\obj\Debug\_4.Beverage_Labels.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\BasicSyntaxExercises\4. Beverage Labels\obj\Debug\_4.Beverage_Labels.pdb
