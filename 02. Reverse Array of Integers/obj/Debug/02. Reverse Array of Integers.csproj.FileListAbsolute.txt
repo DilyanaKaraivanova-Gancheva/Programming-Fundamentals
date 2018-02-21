@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\ArraysLab\02. Reverse Array of Integers\bin\Debug\_02.Reverse_Array_of_Integers.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\ArraysLab\02. Reverse Array of Integers\bin\Debug\_02.Reverse_Array_of_Integers.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\ArraysLab\02. Reverse Array of Integers\bin\Debug\_02.Reverse_Array_of_Integers.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\ArraysLab\02. Reverse Array of Integers\obj\Debug\02. Reverse Array of Integers.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\ArraysLab\02. Reverse Array of Integers\obj\Debug\_02.Reverse_Array_of_Integers.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\ArraysLab\02. Reverse Array of Integers\obj\Debug\_02.Reverse_Array_of_Integers.pdb
