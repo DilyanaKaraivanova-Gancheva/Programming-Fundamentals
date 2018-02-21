@@ -1,0 +1,5 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Arrays - Exercises\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Arrays - Exercises\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Arrays - Exercises\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Arrays - Exercises\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Arrays - Exercises\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.pdb
