@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries- Exercises\03. A Miner Task\bin\Debug\_03.A_Miner_Task.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries- Exercises\03. A Miner Task\bin\Debug\_03.A_Miner_Task.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries- Exercises\03. A Miner Task\bin\Debug\_03.A_Miner_Task.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries- Exercises\03. A Miner Task\obj\Debug\03. A Miner Task.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries- Exercises\03. A Miner Task\obj\Debug\_03.A_Miner_Task.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries- Exercises\03. A Miner Task\obj\Debug\_03.A_Miner_Task.pdb
