@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\ArraysLab\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\ArraysLab\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\ArraysLab\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\ArraysLab\03. Last K Numbers Sums\obj\Debug\03. Last K Numbers Sums.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\ArraysLab\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\ArraysLab\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.pdb

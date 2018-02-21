@@ -1,0 +1,6 @@
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\ArraysLab\04. Triple Sum\bin\Debug\_04.Triple_Sum.exe.config
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\ArraysLab\04. Triple Sum\bin\Debug\_04.Triple_Sum.exe
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\ArraysLab\04. Triple Sum\bin\Debug\_04.Triple_Sum.pdb
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\ArraysLab\04. Triple Sum\obj\Debug\04. Triple Sum.csprojResolveAssemblyReference.cache
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\ArraysLab\04. Triple Sum\obj\Debug\_04.Triple_Sum.exe
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\ArraysLab\04. Triple Sum\obj\Debug\_04.Triple_Sum.pdb
