@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Arrays - Exercises\08. Most Frequent Number\bin\Debug\_08.Most_Frequent_Number.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Arrays - Exercises\08. Most Frequent Number\bin\Debug\_08.Most_Frequent_Number.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Arrays - Exercises\08. Most Frequent Number\bin\Debug\_08.Most_Frequent_Number.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Arrays - Exercises\08. Most Frequent Number\obj\Debug\08. Most Frequent Number.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\Arrays - Exercises\08. Most Frequent Number\obj\Debug\_08.Most_Frequent_Number.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Arrays - Exercises\08. Most Frequent Number\obj\Debug\_08.Most_Frequent_Number.pdb

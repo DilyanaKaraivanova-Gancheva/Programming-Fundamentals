@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Arrays - Exercises\07. Max Sequence of Increasing Elements\bin\Debug\_07.Max_Sequence_of_Increasing_Elements.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Arrays - Exercises\07. Max Sequence of Increasing Elements\bin\Debug\_07.Max_Sequence_of_Increasing_Elements.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Arrays - Exercises\07. Max Sequence of Increasing Elements\bin\Debug\_07.Max_Sequence_of_Increasing_Elements.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\07. Max Sequence of Increasing Elements.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\_07.Max_Sequence_of_Increasing_Elements.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\_07.Max_Sequence_of_Increasing_Elements.pdb
