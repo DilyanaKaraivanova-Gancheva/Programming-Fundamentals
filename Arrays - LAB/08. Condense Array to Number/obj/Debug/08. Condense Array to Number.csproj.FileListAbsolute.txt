@@ -1,0 +1,6 @@
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\ArraysLab\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe.config
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\ArraysLab\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\ArraysLab\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.pdb
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\ArraysLab\08. Condense Array to Number\obj\Debug\08. Condense Array to Number.csprojResolveAssemblyReference.cache
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\ArraysLab\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.exe
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\ArraysLab\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\ArraysLab\09. Extract Middle Elements\bin\Debug\_09.Extract_Middle_Elements.exe.config
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\ArraysLab\09. Extract Middle Elements\bin\Debug\_09.Extract_Middle_Elements.exe
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\ArraysLab\09. Extract Middle Elements\bin\Debug\_09.Extract_Middle_Elements.pdb
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\ArraysLab\09. Extract Middle Elements\obj\Debug\09. Extract Middle Elements.csprojResolveAssemblyReference.cache
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\ArraysLab\09. Extract Middle Elements\obj\Debug\_09.Extract_Middle_Elements.exe
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\ArraysLab\09. Extract Middle Elements\obj\Debug\_09.Extract_Middle_Elements.pdb
