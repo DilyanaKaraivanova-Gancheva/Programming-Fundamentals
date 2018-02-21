@@ -1,0 +1,6 @@
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\DictionariLambdaLinq\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.exe.config
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\DictionariLambdaLinq\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.exe
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\DictionariLambdaLinq\04. Largest 3 Numbers\bin\Debug\_04.Largest_3_Numbers.pdb
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\DictionariLambdaLinq\04. Largest 3 Numbers\obj\Debug\04. Largest 3 Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\DictionariLambdaLinq\04. Largest 3 Numbers\obj\Debug\_04.Largest_3_Numbers.exe
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\DictionariLambdaLinq\04. Largest 3 Numbers\obj\Debug\_04.Largest_3_Numbers.pdb
