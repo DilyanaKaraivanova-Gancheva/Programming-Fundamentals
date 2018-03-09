@@ -1,0 +1,6 @@
+c:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Lists - Exercises\07. Bomb Numbers\bin\Debug\_07.Bomb_Numbers.exe.config
+c:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Lists - Exercises\07. Bomb Numbers\bin\Debug\_07.Bomb_Numbers.exe
+c:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Lists - Exercises\07. Bomb Numbers\bin\Debug\_07.Bomb_Numbers.pdb
+c:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Lists - Exercises\07. Bomb Numbers\obj\Debug\07. Bomb Numbers.csprojResolveAssemblyReference.cache
+c:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Lists - Exercises\07. Bomb Numbers\obj\Debug\_07.Bomb_Numbers.exe
+c:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Lists - Exercises\07. Bomb Numbers\obj\Debug\_07.Bomb_Numbers.pdb

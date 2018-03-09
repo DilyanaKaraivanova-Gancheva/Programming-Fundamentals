@@ -1,0 +1,6 @@
+c:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Lists - Exercises\06. Sum Reversed Numbers\bin\Debug\_06.Sum_Reversed_Numbers.exe.config
+c:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Lists - Exercises\06. Sum Reversed Numbers\bin\Debug\_06.Sum_Reversed_Numbers.exe
+c:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Lists - Exercises\06. Sum Reversed Numbers\bin\Debug\_06.Sum_Reversed_Numbers.pdb
+c:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Lists - Exercises\06. Sum Reversed Numbers\obj\Debug\06. Sum Reversed Numbers.csprojResolveAssemblyReference.cache
+c:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Lists - Exercises\06. Sum Reversed Numbers\obj\Debug\_06.Sum_Reversed_Numbers.exe
+c:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Lists - Exercises\06. Sum Reversed Numbers\obj\Debug\_06.Sum_Reversed_Numbers.pdb
