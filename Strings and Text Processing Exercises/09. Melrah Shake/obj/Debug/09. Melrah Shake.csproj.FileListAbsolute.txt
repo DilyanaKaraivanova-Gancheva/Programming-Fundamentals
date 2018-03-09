@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\09. Melrah Shake\bin\Debug\_09.Melrah_Shake.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\09. Melrah Shake\bin\Debug\_09.Melrah_Shake.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\09. Melrah Shake\bin\Debug\_09.Melrah_Shake.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\09. Melrah Shake.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\_09.Melrah_Shake.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\_09.Melrah_Shake.pdb
