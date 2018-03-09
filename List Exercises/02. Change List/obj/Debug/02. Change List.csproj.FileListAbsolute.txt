@@ -1,0 +1,6 @@
+c:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Lists - Exercises\02. Change List\bin\Debug\_02.Change_List.exe.config
+c:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Lists - Exercises\02. Change List\bin\Debug\_02.Change_List.exe
+c:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Lists - Exercises\02. Change List\bin\Debug\_02.Change_List.pdb
+c:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Lists - Exercises\02. Change List\obj\Debug\02. Change List.csprojResolveAssemblyReference.cache
+c:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Lists - Exercises\02. Change List\obj\Debug\_02.Change_List.exe
+c:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Lists - Exercises\02. Change List\obj\Debug\_02.Change_List.pdb
