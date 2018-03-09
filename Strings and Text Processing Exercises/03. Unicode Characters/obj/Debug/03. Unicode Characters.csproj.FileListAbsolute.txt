@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\03. Unicode Characters\obj\Debug\03. Unicode Characters.csprojResolveAssemblyReference.cache

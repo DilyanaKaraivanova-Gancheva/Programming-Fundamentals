@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\05. Magic exchangeable words\bin\Debug\_05.Magic_exchangeable_words.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\05. Magic exchangeable words\bin\Debug\_05.Magic_exchangeable_words.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\05. Magic exchangeable words\bin\Debug\_05.Magic_exchangeable_words.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\05. Magic exchangeable words\obj\Debug\05. Magic exchangeable words.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\05. Magic exchangeable words\obj\Debug\_05.Magic_exchangeable_words.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\05. Magic exchangeable words\obj\Debug\_05.Magic_exchangeable_words.pdb
