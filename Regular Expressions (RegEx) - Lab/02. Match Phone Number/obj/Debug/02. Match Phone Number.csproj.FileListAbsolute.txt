@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Regular Expressions (RegEx) - Lab\02. Match Phone Number\bin\Debug\_02.Match_Phone_Number.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Regular Expressions (RegEx) - Lab\02. Match Phone Number\bin\Debug\_02.Match_Phone_Number.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Regular Expressions (RegEx) - Lab\02. Match Phone Number\bin\Debug\_02.Match_Phone_Number.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Regular Expressions (RegEx) - Lab\02. Match Phone Number\obj\Debug\02. Match Phone Number.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\Regular Expressions (RegEx) - Lab\02. Match Phone Number\obj\Debug\_02.Match_Phone_Number.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Regular Expressions (RegEx) - Lab\02. Match Phone Number\obj\Debug\_02.Match_Phone_Number.pdb
