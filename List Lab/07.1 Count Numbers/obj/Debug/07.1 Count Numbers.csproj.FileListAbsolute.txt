@@ -1,0 +1,5 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\07.1 Count Numbers\bin\Debug\07.1 Count Numbers.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\07.1 Count Numbers\bin\Debug\07.1 Count Numbers.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\07.1 Count Numbers\bin\Debug\07.1 Count Numbers.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\07.1 Count Numbers\obj\Debug\07.1 Count Numbers.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\07.1 Count Numbers\obj\Debug\07.1 Count Numbers.pdb

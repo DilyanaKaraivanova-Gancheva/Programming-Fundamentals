@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\07. Count Numbers\bin\Debug\_07.Count_Numbers.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\07. Count Numbers\bin\Debug\_07.Count_Numbers.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\07. Count Numbers\bin\Debug\_07.Count_Numbers.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\07. Count Numbers\obj\Debug\07. Count Numbers.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\07. Count Numbers\obj\Debug\_07.Count_Numbers.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\07. Count Numbers\obj\Debug\_07.Count_Numbers.pdb
