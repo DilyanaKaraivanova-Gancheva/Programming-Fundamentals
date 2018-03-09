@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\02. Append Lists\bin\Debug\_02.Append_Lists.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\02. Append Lists\bin\Debug\_02.Append_Lists.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\02. Append Lists\bin\Debug\_02.Append_Lists.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\02. Append Lists\obj\Debug\_02.Append_Lists.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\02. Append Lists\obj\Debug\_02.Append_Lists.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\02. Append Lists\obj\Debug\02. Append Lists.csprojResolveAssemblyReference.cache

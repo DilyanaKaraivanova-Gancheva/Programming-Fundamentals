@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\01. Remove Negatives and Reverse\bin\Debug\_01.Remove_Negatives_and_Reverse.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\01. Remove Negatives and Reverse\bin\Debug\_01.Remove_Negatives_and_Reverse.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\01. Remove Negatives and Reverse\bin\Debug\_01.Remove_Negatives_and_Reverse.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\01. Remove Negatives and Reverse\obj\Debug\01. Remove Negatives and Reverse.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\01. Remove Negatives and Reverse\obj\Debug\_01.Remove_Negatives_and_Reverse.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\01. Remove Negatives and Reverse\obj\Debug\_01.Remove_Negatives_and_Reverse.pdb

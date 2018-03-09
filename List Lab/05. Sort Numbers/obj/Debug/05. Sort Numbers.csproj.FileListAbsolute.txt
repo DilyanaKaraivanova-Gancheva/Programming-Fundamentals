@@ -1,0 +1,5 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.pdb

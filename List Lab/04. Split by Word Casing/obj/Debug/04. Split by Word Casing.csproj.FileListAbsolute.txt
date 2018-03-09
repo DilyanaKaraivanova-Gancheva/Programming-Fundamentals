@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\04. Split by Word Casing\obj\Debug\04. Split by Word Casing.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\04. Split by Word Casing\obj\Debug\_04.Split_by_Word_Casing.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Lists - Lab\04. Split by Word Casing\obj\Debug\_04.Split_by_Word_Casing.pdb
