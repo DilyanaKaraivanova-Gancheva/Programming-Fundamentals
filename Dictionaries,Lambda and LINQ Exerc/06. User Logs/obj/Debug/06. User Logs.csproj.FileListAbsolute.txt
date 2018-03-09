@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exerc\06. User Logs\bin\Debug\_06.User_Logs.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exerc\06. User Logs\bin\Debug\_06.User_Logs.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exerc\06. User Logs\bin\Debug\_06.User_Logs.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exerc\06. User Logs\obj\Debug\06. User Logs.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exerc\06. User Logs\obj\Debug\_06.User_Logs.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exerc\06. User Logs\obj\Debug\_06.User_Logs.pdb
