@@ -1,0 +1,6 @@
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\03. Star Enigma\bin\Debug\_03.Star_Enigma.exe.config
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\03. Star Enigma\bin\Debug\_03.Star_Enigma.exe
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\03. Star Enigma\bin\Debug\_03.Star_Enigma.pdb
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\03. Star Enigma\obj\Debug\03. Star Enigma.csprojResolveAssemblyReference.cache
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\03. Star Enigma\obj\Debug\_03.Star_Enigma.exe
+C:\Users\Ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\03. Star Enigma\obj\Debug\_03.Star_Enigma.pdb
