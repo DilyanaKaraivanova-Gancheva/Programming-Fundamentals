@@ -1,0 +1,5 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Lab\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Lab\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Lab\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Lab\03. Min, Max, Sum, Average\obj\Debug\_03.Min__Max__Sum__Average.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Lab\03. Min, Max, Sum, Average\obj\Debug\_03.Min__Max__Sum__Average.pdb

@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\bin\Debug\_05.Short_Words_Sorted.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\bin\Debug\_05.Short_Words_Sorted.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\bin\Debug\_05.Short_Words_Sorted.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\obj\Debug\05. Short Words Sorted.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\obj\Debug\_05.Short_Words_Sorted.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Lab\05. Short Words Sorted\obj\Debug\_05.Short_Words_Sorted.pdb
