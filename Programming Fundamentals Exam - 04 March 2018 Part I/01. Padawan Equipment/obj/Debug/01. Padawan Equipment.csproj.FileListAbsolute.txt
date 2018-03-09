@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\01. Padawan Equipment\bin\Debug\_01.Padawan_Equipment.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\01. Padawan Equipment\bin\Debug\_01.Padawan_Equipment.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\01. Padawan Equipment\bin\Debug\_01.Padawan_Equipment.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\01. Padawan Equipment\obj\Debug\01. Padawan Equipment.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\01. Padawan Equipment\obj\Debug\_01.Padawan_Equipment.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\01. Padawan Equipment\obj\Debug\_01.Padawan_Equipment.pdb

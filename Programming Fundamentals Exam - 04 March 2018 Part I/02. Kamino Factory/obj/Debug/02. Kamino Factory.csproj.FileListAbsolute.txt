@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\02. Kamino Factory\bin\Debug\_02.Kamino_Factory.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\02. Kamino Factory\bin\Debug\_02.Kamino_Factory.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\02. Kamino Factory\bin\Debug\_02.Kamino_Factory.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\02. Kamino Factory\obj\Debug\02. Kamino Factory.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\02. Kamino Factory\obj\Debug\_02.Kamino_Factory.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\02. Kamino Factory\obj\Debug\_02.Kamino_Factory.pdb
