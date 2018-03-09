@@ -1,0 +1,5 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exerc\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exerc\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exerc\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exerc\02. Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exerc\02. Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.pdb

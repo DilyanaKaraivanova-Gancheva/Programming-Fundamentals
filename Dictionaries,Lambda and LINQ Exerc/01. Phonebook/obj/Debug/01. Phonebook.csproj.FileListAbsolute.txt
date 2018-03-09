@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exerc\01. Phonebook\bin\Debug\_01.Phonebook.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exerc\01. Phonebook\bin\Debug\_01.Phonebook.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exerc\01. Phonebook\bin\Debug\_01.Phonebook.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exerc\01. Phonebook\obj\Debug\01. Phonebook.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exerc\01. Phonebook\obj\Debug\_01.Phonebook.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exerc\01. Phonebook\obj\Debug\_01.Phonebook.pdb
