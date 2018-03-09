@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\_02.Count_Substring_Occurrences.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\_02.Count_Substring_Occurrences.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\_02.Count_Substring_Occurrences.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\02. Count Substring Occurrences.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\_02.Count_Substring_Occurrences.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\_02.Count_Substring_Occurrences.pdb
