@@ -8,7 +8,7 @@ namespace _04._2
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) // 100/100
         {
             string input = Console.ReadLine();
             Dictionary<string, string> users = new Dictionary<string, string>();
