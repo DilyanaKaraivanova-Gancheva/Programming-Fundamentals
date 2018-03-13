@@ -1,0 +1,6 @@
+c:\users\ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\04. ForceBook\bin\Debug\_04.ForceBook.exe.config
+c:\users\ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\04. ForceBook\bin\Debug\_04.ForceBook.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\04. ForceBook\bin\Debug\_04.ForceBook.pdb
+c:\users\ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\04. ForceBook\obj\Debug\04. ForceBook.csprojResolveAssemblyReference.cache
+c:\users\ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\04. ForceBook\obj\Debug\_04.ForceBook.exe
+c:\users\ganchevi\documents\visual studio 2017\Projects\Programming Fundamentals Exam  PartI I\04. ForceBook\obj\Debug\_04.ForceBook.pdb

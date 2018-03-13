@@ -1,0 +1,6 @@
+C:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Programming Fundamentals Exam  PartI I\04.2\bin\Debug\04.2.exe.config
+C:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Programming Fundamentals Exam  PartI I\04.2\bin\Debug\04.2.exe
+C:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Programming Fundamentals Exam  PartI I\04.2\bin\Debug\04.2.pdb
+C:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Programming Fundamentals Exam  PartI I\04.2\obj\Debug\04.2.csprojResolveAssemblyReference.cache
+C:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Programming Fundamentals Exam  PartI I\04.2\obj\Debug\04.2.exe
+C:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Programming Fundamentals Exam  PartI I\04.2\obj\Debug\04.2.pdb
