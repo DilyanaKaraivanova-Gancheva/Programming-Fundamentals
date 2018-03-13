@@ -8,7 +8,7 @@ namespace _04.ForceBook
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)// 90/100
         {
             string input = Console.ReadLine();
             Dictionary<string, List<string>> users = new Dictionary<string, List<string>>();
