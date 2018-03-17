@@ -1,0 +1,6 @@
+C:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Exam Preparation II\04. Roli The Coder\bin\Debug\_04.Roli_The_Coder.exe.config
+C:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Exam Preparation II\04. Roli The Coder\bin\Debug\_04.Roli_The_Coder.exe
+C:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Exam Preparation II\04. Roli The Coder\bin\Debug\_04.Roli_The_Coder.pdb
+C:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Exam Preparation II\04. Roli The Coder\obj\Debug\04. Roli The Coder.csprojResolveAssemblyReference.cache
+C:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Exam Preparation II\04. Roli The Coder\obj\Debug\_04.Roli_The_Coder.exe
+C:\Users\Ganchevi\Documents\Visual Studio 2017\Projects\Exam Preparation II\04. Roli The Coder\obj\Debug\_04.Roli_The_Coder.pdb
